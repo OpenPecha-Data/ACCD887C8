@@ -1,0 +1,22 @@
+segment_sources:
+  P7852DB62:
+    type: origin_type
+    relation: translation
+    language: en
+  P143DB3B5:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c53036b849c44dffb6022655e7134256:
+    P7852DB62: bb15f8328ab249af8e47261762361851
+    P143DB3B5: 5189f037396c4fc1a9e833f4e986d992
+  d4e049a69b384623bdbf146671f1d6ad:
+    P7852DB62: a18e80c3aa89457c97945cb9e15489c4
+    P143DB3B5: 79405f7725d44905b8b9104e66a355cb
+  15430bf56163482bbcfb370fd5afad2c:
+    P7852DB62: 401306f22d02466fa2375b9c3004383b
+    P143DB3B5: 6fc16ada08084d45a8e6275365aa8017
+  7da40f707826480a93ca0b4c450ced92:
+    P7852DB62: 2dd056bffbbf41c7a02a847efdfc046d
+    P143DB3B5: ac88ef60ac5845f1bbce860312c9af23
